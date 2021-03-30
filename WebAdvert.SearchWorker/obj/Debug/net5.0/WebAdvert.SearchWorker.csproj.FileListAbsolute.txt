@@ -1,0 +1,12 @@
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/Debug/net5.0/WebAdvert.SearchWorker.deps.json
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/Debug/net5.0/WebAdvert.SearchWorker.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/Debug/net5.0/ref/WebAdvert.SearchWorker.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/Debug/net5.0/WebAdvert.SearchWorker.pdb
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/net5.0/WebAdvert.SearchWorker.csprojAssemblyReference.cache
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/net5.0/WebAdvert.SearchWorker.GeneratedMSBuildEditorConfig.editorconfig
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/net5.0/WebAdvert.SearchWorker.AssemblyInfoInputs.cache
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/net5.0/WebAdvert.SearchWorker.AssemblyInfo.cs
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/net5.0/WebAdvert.SearchWorker.csproj.CoreCompileInputs.cache
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/net5.0/WebAdvert.SearchWorker.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/net5.0/ref/WebAdvert.SearchWorker.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/net5.0/WebAdvert.SearchWorker.pdb

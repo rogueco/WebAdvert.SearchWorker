@@ -1,0 +1,12 @@
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.deps.json
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.runtimeconfig.json
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.runtimeconfig.dev.json
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.pdb
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.csprojAssemblyReference.cache
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.AssemblyInfoInputs.cache
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.AssemblyInfo.cs
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.csproj.CoreCompileInputs.cache
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.pdb
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/release/netcoreapp3.1/linux-x64/WebAdvert.SearchWorker.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/Debug/netcoreapp3.1/WebAdvert.SearchWorker.deps.json
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/Debug/netcoreapp3.1/WebAdvert.SearchWorker.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/Debug/netcoreapp3.1/WebAdvert.SearchWorker.pdb
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/netcoreapp3.1/WebAdvert.SearchWorker.csprojAssemblyReference.cache
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/netcoreapp3.1/WebAdvert.SearchWorker.AssemblyInfoInputs.cache
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/netcoreapp3.1/WebAdvert.SearchWorker.AssemblyInfo.cs
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/netcoreapp3.1/WebAdvert.SearchWorker.csproj.CoreCompileInputs.cache
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/netcoreapp3.1/WebAdvert.SearchWorker.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/obj/Debug/netcoreapp3.1/WebAdvert.SearchWorker.pdb

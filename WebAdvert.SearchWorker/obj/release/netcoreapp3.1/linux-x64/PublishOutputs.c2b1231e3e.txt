@@ -1,0 +1,8 @@
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/publish/WebAdvert.SearchWorker.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/publish/WebAdvert.SearchWorker.deps.json
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/publish/WebAdvert.SearchWorker.runtimeconfig.json
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/publish/WebAdvert.SearchWorker.pdb
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/publish/Amazon.Lambda.Core.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/publish/Amazon.Lambda.Serialization.Json.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/publish/Amazon.Lambda.SNSEvents.dll
+/home/tfletcher/Git/Development/ASP.NET/MicroservicesDotNetCoreAWS/WebAdvert.SearchWorker/WebAdvert.SearchWorker/bin/release/netcoreapp3.1/publish/Newtonsoft.Json.dll
